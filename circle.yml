@@ -1,5 +1,4 @@
-general:
-  build_dir: api
+
 
 test:
   post:
